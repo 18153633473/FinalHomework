@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FinalHomework</string>
+    <string name="cancel">取消</string>
+    <string name="title">请选择时间</string>
+    <string name="confirm">确定</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="hour">时</string>
+    <string name="minute">分</string>
+    <string name="select_date">选择日期</string>
+    <string name="current_date">当前日期</string>
+    <string name="select_time">选择时间</string>
+    <string name="current_time">当前时间</string>
+    <string name="daoshurimingcheng">请输入倒数日名称</string>
+    <string name="riqikaleixing">选择日期卡类型</string>
+    <string name="kaoshi">考试</string>
+    <string name="纪念日">纪念日</string>
+    <string name="节假日">节假日</string>
+    <string name="旅行">旅行</string>
+    <string name="自定义">自定义</string>
+    <string name="生日">生日</string>
+</resources>
