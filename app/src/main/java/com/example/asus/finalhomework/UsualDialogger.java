@@ -11,11 +11,7 @@ import android.widget.TextView;
 
 import com.example.asus.finalhomework.R;
 
-/**
- * 通常都会使用的一种交互对话框
- * 此乃引入Internet上的布局
- *
- */
+
 
 public class UsualDialogger extends Dialog {
     private final String TITLE;

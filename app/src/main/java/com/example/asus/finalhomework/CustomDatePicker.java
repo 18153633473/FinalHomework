@@ -1,3 +1,4 @@
+
 package com.example.asus.finalhomework;
 
 import android.app.Dialog;
@@ -14,8 +15,11 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
-
-
+/**
+ * 日期滑动勾选框的实现是引入网上的库
+ *
+ *
+ */
 public class CustomDatePicker implements View.OnClickListener, PickerView.OnSelectListener {
 
     private Context mContext;

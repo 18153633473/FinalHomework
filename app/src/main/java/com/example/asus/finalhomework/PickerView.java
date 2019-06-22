@@ -19,7 +19,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
-
+/**
+ * 日期滑动勾选框的实现是引入网上的库
+ *
+ *
+ */
 
 public class PickerView extends View {
 
